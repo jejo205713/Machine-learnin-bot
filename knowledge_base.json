@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "HI",
+      "answer": " Hi! there..."
+    },
+    {
+      "question": "hi",
+      "answer": " Hi! there..."
+    },
+    {
+      "question": "exit",
+      "answer": ""
+    },
+    {
+      "question": "im feeling sad",
+      "answer": "dont worry its just an bad day theres always a better day tommorow ..."
+    },
+    {
+      "question": "sumitha",
+      "answer": "the ai project poster devoloper"
+    },
+    {
+      "question": "dharshana",
+      "answer": "hi there co-devolopwer"
+    },
+    {
+      "question": "i got no friends ",
+      "answer": "Dont be sad ! im there for u as a friend ..."
+    },
+    {
+      "question": "vijay",
+      "answer": "the flutter dev"
+    },
+    {
+      "question": "sup",
+      "answer": "whatsupp homey !!"
+    }
+  ]
+}
